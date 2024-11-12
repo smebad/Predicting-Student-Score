@@ -1,7 +1,7 @@
 # Student Performance Prediction 📊🎓
 
 **Author:** [Syed Muhammad Ebad](https://www.kaggle.com/syedmuhammadebad)  
-**Date:** 30-Oct-2024  
+**Date:** 12-Nov-2024  
 [Send me an email](mailto:mohammadebad1@hotmail.com)  
 [Visit my GitHub profile](https://github.com/smebad)
 
